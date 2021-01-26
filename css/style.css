@@ -9,6 +9,7 @@ body
 }
 #container
 {
+    background-color: aquamarine;
     width: 70%;
     padding: 1em;
     text-align: left;
@@ -19,4 +20,13 @@ body
 #container h1
 {
     font-size: 20px;
+}
+
+button {
+    border-radius: 10px;
+    background-color: white;
+    border: none;
+    width: 30%;
+    height: 40px;
+    cursor: pointer;
 }
